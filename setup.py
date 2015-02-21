@@ -24,7 +24,8 @@ setup(
 		'argparse>=1.1',
 		'requests>=2.2.1',
 		'unicodecsv>=0.9.4',
-		'progressbar>=2.2'
+		'progressbar>=2.2',
+		'feedparser>=5.1.3'
 	],
 
 	entry_points = {
