@@ -7,6 +7,9 @@
        },
        "analyzed_articles_by_feed_and_date": {
            "map": "function(doc) {\n\tif (doc.type == 'article' && doc.analyzed == true) {\n\t\temit([doc.feed_id, doc.published], doc.analyzed);\n\t}\n}"
+       },
+       "selected_articles": {
+           "map": "function(doc) {\n  if (doc.type == 'article' && doc.selected == true) {\n    emit(doc.title, doc.link);\n  }\n}"
        }
    }
 }
