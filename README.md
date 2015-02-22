@@ -5,3 +5,9 @@ A web-based interface matching trending topics in the news with data visualizati
 The website shows news feeds from national news sources (eg: The Globe and Mail), and a chart of common terms from current articles. Terms can be selected to filter articles. Clicking on an article displays that article’s content, along with relevant data from a variety of government open data sources.
 
 The IBM Watson Relationship Extraction service was meant to be used to determine entities and relationships. However, the service was unavailable for most of the competition weekend.
+
+## Project Team
+
+* Stephanie Stobart
+* Ezequiel Perdomo
+* King Chung Huang
