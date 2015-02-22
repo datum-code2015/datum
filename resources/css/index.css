@@ -1,0 +1,56 @@
+@import url(daytum.css);
+
+#top-entities {
+	background-color: rgb(255, 187, 45);
+	color: white;
+	padding: 60px 0;
+}
+
+#top-entities ul {
+	margin: 0;
+	padding: .5em 0;
+	border-left: 3px solid white;
+	list-style: none;
+	text-transform: uppercase;
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", Helvetica, sans-serif;
+	line-height: 1.6;
+}
+
+#top-entities a {
+	color: rgb(255, 187, 45);
+	display: block;
+	background-color: white;
+	padding: .25em .5em;
+	margin: .5em 0;
+	border: 1px solid white;
+	border-left: 0;
+}
+
+#top-entities a:hover {
+	background-color: transparent;
+	color: white;
+	text-decoration: none;
+}
+
+#articles {
+	color: #888;
+	margin-bottom: 2em;
+}
+
+#articles h1 {
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-size: 14pt;
+	border-bottom: 1px dashed #999;
+	padding: 1em 0;
+}
+
+#articles h2 {
+	font-family: Georgia, serif;
+	font-size: 18pt;
+	margin-bottom: 0;
+}
+
+#articles a {
+	color: #666;
+}

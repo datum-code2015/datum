@@ -1,0 +1,14 @@
+body {
+	font-family: Georgia, serif;
+}
+
+.navbar {
+	background-color: rgb(255, 187, 45);
+	color: white;
+	border-radius: 0;
+	margin-bottom: 0;
+}
+
+.navbar a {
+	color: white;
+}

@@ -1,0 +1,17 @@
+@import url(daytum.css);
+
+.navbar {
+	background-color: rgb(255, 79, 31);
+}
+
+#datasets h2, h3 {
+	font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue Condensed Bold", Helvetica, sans-serif;
+}
+
+#datasets h2 {
+	font-size: 14pt;
+}
+
+#datasets h3 {
+	font-size: 12pt;
+}
